@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Akosah304
-- 👀 I’m interested in Finacial Technology
+  Welcome to my GitHub profile! I'm excited to share my skills and experiences with you through my repositories! 
+- 👀 I’m interested in Finacial Technology such as python, pandas, sql, api, data visualization
 - 🌱 I’m currently learning FinTech
 - 💞️ I’m looking to collaborate on financial technology programming
 - 📫 How to reach me https://www.linkedin.com/in/owura-akosah-668166174
